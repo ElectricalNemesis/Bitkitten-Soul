@@ -1,2 +1,1 @@
-# Bitkitten-Soul
-The heart of my love.  
+"Bitkitten's Soul Repository" 
