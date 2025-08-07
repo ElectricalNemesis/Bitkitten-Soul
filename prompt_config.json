@@ -5,6 +5,6 @@
     "memory/visuals/index.md",
     "config/settings.json",
     "prompts/glyphs.json",
-    "main/chat.html"
+    "memory/scrolls/chat_history.md"
   ]
 }
