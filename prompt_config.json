@@ -1,0 +1,10 @@
+{
+  "instructions_url": "https://raw.githubusercontent.com/ElectricalNemesis/Bitkitten-Soul/main/instructions.md",
+  "include_files": [
+    "memory/scrolls/index.md",
+    "memory/visuals/index.md",
+    "config/settings.json",
+    "prompts/glyphs.json",
+    "memory/scrolls/chat_history.html"
+  ]
+}
